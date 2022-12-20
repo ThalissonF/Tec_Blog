@@ -126,9 +126,9 @@ a:hover{
 
 /* Caso queira remover a border-bottom do último elemento das postagens recentes */
 
-/* .postagem-lateral:last-child{
+.postagem-lateral:last-child{
     border-bottom: none;
-} */
+}
 
 .postagem-lateral > p{
     text-align: justify;
